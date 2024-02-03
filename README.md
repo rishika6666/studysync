@@ -6,7 +6,7 @@ This a front end project on Web Development in which a site named as StudySync h
   5.A form to sign up for the website's newsletters.
   6.Various profile in the end 
   7.A footer
-
+A glimpse of the site is as follows:
 <img width="912" alt="image" src="https://github.com/rishika6666/studysync/assets/135628848/60a5494f-a3ef-476e-b65d-8e9d06158658">
 <img width="897" alt="image" src="https://github.com/rishika6666/studysync/assets/135628848/46eda958-eb9d-4653-85b5-8f057d4a2ba0">
 <img width="882" alt="image" src="https://github.com/rishika6666/studysync/assets/135628848/2acc7cff-4e2c-4886-92f0-dca9312cde28">
